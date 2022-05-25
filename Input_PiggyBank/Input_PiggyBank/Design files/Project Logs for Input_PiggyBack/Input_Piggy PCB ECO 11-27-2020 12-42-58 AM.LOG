@@ -1,0 +1,19 @@
+Added Component: Designator=J2(KF332J-5.0-24P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "KF332J-5.0-24P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN_1 Pin=J2-1
+Added Pin To Net: NetName=CON_1 Pin=J2-2
+Added Pin To Net: NetName=IN_2 Pin=J2-3
+Added Pin To Net: NetName=CON_2 Pin=J2-4
+Added Pin To Net: NetName=IN_3 Pin=J2-5
+Added Pin To Net: NetName=CON_3 Pin=J2-6
+Added Pin To Net: NetName=IN_4 Pin=J2-7
+Added Pin To Net: NetName=CON_4 Pin=J2-8
+Added Pin To Net: NetName=IN_5 Pin=J2-9
+Added Pin To Net: NetName=12V_IN Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Change Class Name : Old Net Name=U_Optocoupler Sheet New Net Name=Optocoupler Sheet
+Added Member To Class: ClassName=Optocoupler Sheet Member=Component J2 KF332J-5.0-24P

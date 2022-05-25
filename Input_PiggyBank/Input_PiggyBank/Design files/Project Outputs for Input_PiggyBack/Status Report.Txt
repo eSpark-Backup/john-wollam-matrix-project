@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Input_PiggyBack.PrjPCB]
+   Generated File[Pick Place for Input_Piggy.txt]
+   Generated File[Pick Place for Input_Piggy.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 8:01:17 AM On 11/27/2020
