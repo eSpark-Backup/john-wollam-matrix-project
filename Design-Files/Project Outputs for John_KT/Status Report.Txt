@@ -1,11 +1,14 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [John_Main.PrjPcb]
-   Generated File[Pick Place for John_Main.txt]
-   Generated File[Pick Place for John_Main.csv]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:47:39 PM On 5/26/2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [John_Main.PrjPcb]
+   Generated File[Bill of Materials-John_Main.xlsx]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:17:23 PM On 5/8/2021
+Finished Output Generation At 12:47:43 PM On 5/26/2022
