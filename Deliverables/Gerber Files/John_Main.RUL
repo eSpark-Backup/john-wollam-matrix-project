@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Mars\Running Projects\John_Wollam_Latest\_Design Files\John_Main.PcbDoc
+DRC Rules Export File for PCB: E:\JohnWollam-MatrixProject\Design-Files\John_Main.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=4.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
