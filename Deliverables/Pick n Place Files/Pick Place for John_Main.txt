@@ -4,13 +4,15 @@ E:\JohnWollam-MatrixProject\Design-Files\Project Outputs for John_KT\Pick Place 
 ========================================================================================================================
 File Design Information:
 
-Date:       30/05/22
-Time:       11:28
-Revision:   4d1d7ab1448956afb8c81c39773bada2e6d5393a
+Date:       14/06/22
+Time:       18:27
+Revision:   9f678fdf6794e47bd61846610d9c4fd1d39ec325
 Variant:    No variations
 Units used: mil
 
 Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+LF1        TopLayer    2567,100mil   453,000mil    90       2567,100mil 453,000mil  2567,100mil 352,606mil  
+U3         TopLayer    1066,436mil   141,000mil    90       1066,436mil 141,000mil  1046,751mil 128,795mil  
 U9         BottomLayer 168,000mil    2019,812mil   90       193,000mil  1882,016mil 193,000mil  1882,016mil 
 U8         BottomLayer 527,122mil    1053,491mil   270      502,122mil  1191,286mil 502,122mil  1191,286mil 
 U7         BottomLayer 168,000mil    843,399mil    90       193,000mil  705,604mil  193,000mil  705,604mil  
@@ -53,7 +55,6 @@ R11        BottomLayer 193,000mil    473,000mil    90       193,000mil  473,000m
 R5         BottomLayer 193,000mil    -8,000mil     90       193,000mil  -8,000mil   193,000mil  22,000mil   
 J7         TopLayer    676,000mil    625,000mil    0        676,000mil  625,000mil  676,000mil  625,000mil  
 L1         TopLayer    1833,942mil   482,650mil    90       1833,942mil 482,650mil  1833,942mil 402,040mil  
-U3         TopLayer    1066,121mil   140,205mil    90       1046,436mil 128,000mil  1046,436mil 128,000mil  
 J5         TopLayer    675,968mil    70,177mil     90       675,968mil  70,177mil   675,968mil  70,177mil   
 X1         TopLayer    2113,000mil   1195,000mil   90       2113,000mil 1195,000mil 2113,000mil 1017,835mil 
 C11        TopLayer    1514,100mil   87,799mil     270      1514,100mil 87,799mil   1514,100mil 198,035mil  
@@ -80,7 +81,6 @@ Q76        TopLayer    -2,776mil     1586,820mil   90       -2,776mil   1586,827
 Q75        TopLayer    -3,635mil     1187,490mil   90       -3,635mil   1187,497mil 38,688mil   1150,089mil 
 Q74        TopLayer    -4,642mil     786,820mil    90       -4,642mil   786,827mil  37,681mil   749,419mil  
 Q73        TopLayer    -4,500mil     390,993mil    90       -4,500mil   391,000mil  37,823mil   353,592mil  
-LF1        TopLayer    2572,942mil   472,500mil    90       2572,942mil 472,500mil  2572,942mil 372,106mil  
 FB1        BottomLayer 1984,938mil   542,381mil    90       1984,938mil 542,381mil  1984,938mil 524,664mil  
 CU10       BottomLayer 2113,000mil   1330,000mil   270      2113,000mil 1330,000mil 2113,000mil 1342,992mil 
 CU9        BottomLayer 2113,000mil   1007,992mil   270      2113,000mil 1007,992mil 2113,000mil 1020,984mil 
