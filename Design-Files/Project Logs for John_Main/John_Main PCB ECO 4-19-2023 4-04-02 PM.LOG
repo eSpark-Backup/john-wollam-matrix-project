@@ -1,0 +1,11 @@
+Added Component: Designator=LF1(MCS0630-3R3MN2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_PSA-Prosperity-Dielectrics-MCS0630-3R3MN2_C394166.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C394166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCS0630-3R3MN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW# Pin=LF1-1
+Added Pin To Net: NetName=5V Pin=LF1-2
+Added Member To Class: ClassName=Power_Section Member=Component LF1 3.3uH
