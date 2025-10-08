@@ -2,202 +2,6 @@
 FileName = John_Main.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : John_Main.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D37
-    D38
-    D40
-    D45
-    D47
-    D174
-    D175
-    D176
-    D177
-    D178
-    D182
-    D183
-    D184
-    D185
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : John_Main.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D174
-    D175
-    D176
-    D177
-    D178
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : John_Main.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : John_Main.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : John_Main.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D37
-    D38
-    D45
-    D47
-    D182
-    D183
-    D184
-    D185
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : John_Main.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D16
-    D17
-    D19
-    D20
-    D219
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : John_Main.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : John_Main.GBL
 
@@ -207,16 +11,16 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D19
+    D11
+    D20
+    D36
     D37
-    D38
-    D40
-    D45
-    D47
-    D94
-    D95
-    D96
+    D39
+    D44
+    D46
+    D91
+    D92
+    D93
     D174
     D175
     D176
@@ -258,6 +62,21 @@ Used DCodes :
     D212
     D213
     D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
 *************************************************************
 
 *************************************************************
@@ -270,9 +89,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D19
-    D32
+    D11
+    D20
     D33
     D34
     D35
@@ -299,7 +117,9 @@ Used DCodes :
     D56
     D57
     D58
-    D59
+    D91
+    D92
+    D93
     D94
     D95
     D96
@@ -390,6 +210,198 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 2
+      File : John_Main.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : John_Main.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : John_Main.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D19
+    D20
+    D234
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : John_Main.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : John_Main.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D39
+    D44
+    D46
+    D174
+    D175
+    D176
+    D177
+    D178
+    D182
+    D183
+    D184
+    D185
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : John_Main.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D174
+    D175
+    D176
+    D177
+    D178
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : John_Main.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+    D65
+    D70
+    D72
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D230
+    D231
+    D232
+    D233
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : John_Main.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D44
+    D46
+    D182
+    D183
+    D184
+    D185
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : John_Main.GTS
 
@@ -401,6 +413,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D59
     D60
     D61
     D62
@@ -432,38 +445,46 @@ Used DCodes :
     D88
     D89
     D90
-    D91
-    D92
-    D93
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : John_Main.GBS
+Generating : Top Paste
+      File : John_Main.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D65
-    D66
-    D68
-    D73
-    D75
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D215
-    D216
-    D217
-    D218
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -476,8 +497,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D220
-    D221
+    D235
+    D236
 *************************************************************
 
 *************************************************************
@@ -490,6 +511,15 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D220
+    D235
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : John_Main.GM
+
+
+Used DCodes :
+    D237
 *************************************************************
 
